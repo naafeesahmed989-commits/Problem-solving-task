@@ -1,4 +1,4 @@
-# the task is to remove the duplicate in the list
+# the task is to remove the duplicates in a list
 numbers=[1,1,3,4,5,5,6]
 # i will create a new list so i can store the items in it
 numbers2=[]
@@ -9,6 +9,7 @@ for item in numbers:
         # if it is not there then add it to the list
         numbers2.append(item)
 print(numbers2)
+
 
 
 
