@@ -1,2 +1,2 @@
 # Problem-solving-task
-i am trying to improve my problem-solving skill through such task that helping me to think not just run for writing a code without full understanding 
+I am working on small coding tasks to improve my problem-solving skills. These exercises help me think critically and understand the logic behind the code, instead of just writing it without full comprehension.
