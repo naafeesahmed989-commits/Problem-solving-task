@@ -1,7 +1,7 @@
-# Problem-Solving Task
+# Problem-Solving Tasks
 
-This is a small coding exercise to improve my problem-solving skills in Python. 
-**The goal** of this task was to remove duplicates from a list while thinking critically about the logic, rather than just writing code without understanding. 
+This is a small coding exercises to improve my problem-solving skills in Python. 
+
 
 It helped me practice:
 1)Loops (`for`)
