@@ -1,0 +1,17 @@
+class Solution(object):
+    def runningSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        total=0
+        new_list=[]
+        for i in nums:
+            total+=i
+            new_list.append(total)
+
+
+        return new_list
+
+            
+        
